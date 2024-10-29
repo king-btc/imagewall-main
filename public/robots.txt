@@ -1,0 +1,4 @@
+# ImageWall
+
+User-agent: *
+Sitemap: https://imagewall.azahner.com/sitemap.xml
